@@ -24,7 +24,7 @@ ASSIGNMENTS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit8_512s09_pset011))
+Problem set 1 ([PDF]({{< baseurl >}}/resources/mit8_512s09_pset011))
 {{< tdclose >}}
 
 {{< trclose >}}
